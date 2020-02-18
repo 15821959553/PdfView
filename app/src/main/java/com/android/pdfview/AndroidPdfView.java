@@ -8,7 +8,6 @@ import android.util.Log;
 import com.android.pdfview.api.ApiManager;
 import com.android.pdfview.listener.LoadCompleteListener;
 import com.github.barteksc.pdfviewer.PDFView;
-import com.github.barteksc.pdfviewer.util.FitPolicy;
 
 import java.io.File;
 import java.io.FileOutputStream;
